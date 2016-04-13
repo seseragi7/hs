@@ -1,7 +1,6 @@
 # HEARTSONGS ws
 HEARTSONGSのリポジトリです。
 
----
 
 ## Overview
 自分たちの好きな海外アーティストの曲を和訳したりしています。
